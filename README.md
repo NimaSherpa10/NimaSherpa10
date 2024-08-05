@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nima Sherpa</h1>
 <h3 align="center">FullStack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimasherpa10&label=Profile%20views&color=0e75b6&style=flat" alt="nimasherpa10" /> </p>
+<p align="left"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ae0391c7c32e169840ebca7760d6669c-1664899590/stream%20set%20iup/create-pixel-art-characters-and-objects.gif" alt="nimasherpa10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimasherpa10" alt="nimasherpa10" /></a> </p>
 
