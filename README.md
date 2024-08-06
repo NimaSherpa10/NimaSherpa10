@@ -2,8 +2,7 @@
 <h3 align="center">FullStack Developer</h3>
 
 <p align="center"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ae0391c7c32e169840ebca7760d6669c-1664899590/stream%20set%20iup/create-pixel-art-characters-and-objects.gif" alt="nimasherpa10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimasherpa10" alt="nimasherpa10" /></a> </p>
+</a> </p>
 
 - 🌱 I’m currently learning **React, Nextjs, Typescript and Data Structures**
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **nimanurusherpa2022@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/nimasherpa2022/</h3>
 <p align="left">
 </p>
 
